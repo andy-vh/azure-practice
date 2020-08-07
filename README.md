@@ -1,3 +1,3 @@
 # azure-practice
 
-Testing git commit again.
+Working through some Azure tutorials.
