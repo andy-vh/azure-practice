@@ -1,0 +1,1 @@
+Tutorial code copied from [here.](https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-python)
