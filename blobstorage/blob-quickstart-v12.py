@@ -1,5 +1,7 @@
-import os, uuid
-from azure.storage.blob import BlobServiceClient, BlobClient, ContainerClient
+import os
+import uuid
+
+from azure.storage.blob import BlobServiceClient
 from dotenv import load_dotenv
 
 try:
